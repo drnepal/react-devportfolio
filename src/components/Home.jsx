@@ -14,7 +14,7 @@ const Home = () => {
           <img
             src={myself}
             alt="profile"
-            className="rounded-2xl mx-auto w-1/4 md:w-1/2 transform scale-50"
+            className="rounded-2xl mx-auto w-1/4 md:w-2/3 transform scale-80"
           />
         </div>
         <div className="flex flex-col justify-center h-full">
